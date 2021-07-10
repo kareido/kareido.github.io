@@ -61,8 +61,8 @@ projects:
       - title: CARLA RL Self-driving Vehicle
         tagline: 'Auton Lab, The Robotics Institute, CMU'
         details: |
-            - asdad
-            - dasdsa
+            - Designing new multi-agent RL algorithms for autonomous driving on CARLA funded by Argo AI.
+            - Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
 
       - title: DevStudio
         link: "#"
