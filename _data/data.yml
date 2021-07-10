@@ -42,7 +42,7 @@ experiences:
       details: |
         - Initiating the Emergency Vehicle (EV) Detection project. Building the general codebase and baseline models.
         - Tackling siren recognition task. Designing pipelines for sound event detection and sound source localization.
-        - Revealed the flaws of previous state-of-the-art models by Grad-CAM visualization and network analysis.
+        - Revealed the flaws of previous state-of-the-art models by Grad-CAM visualization and heatmap analysis.
     - role: Computer Vision Research Intern
       time: Sep 2018 - June 2019
       company: SenseTime Group Ltd., Shenzhen &amp; Hong Kong
@@ -57,14 +57,14 @@ projects:
       - title: CARLA Self-driving via Reinforcement Learning
         tagline: 'Auton Lab, The Robotics Institute, CMU'
         details: |
-            - Research project sponsored by Argo AI. Work in progress.
-            - Designing new multi-agent RL algorithms for autonomous driving on CARLA.
+            A research project sponsored by Argo AI and advised by Prof. Jeff Schneider. Work in progress.
+            - Designing new multi-agent RL algorithms (distributed PPO &amp; SAC) for autonomous driving on CARLA.
             - Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
 
       - title: Apple E-Waste Recycling
         tagline: 'Biorobotics Lab, The Robotics Institute, CMU'
         details: |
-            - Research &amp; engineering project sponsored by Apple Inc. Work in progress.
+            A research &amp; engineering project sponsored by Apple Inc. Work in progress.
             - Designed the phone recognition pipeline and generated photorealistic phone CAD synthetic dataset.  
             - Improved the phone classification accuracy by 6% (top-1 acc. boosted from ~90% to 96%).
 
@@ -78,17 +78,33 @@ projects:
             - When Cats meet GANs;
             - Neural Style Transfer;
             - GAN Photo Editing (best project finalist);
-            - Image Generation via Independent Semantic Synthesis
+            - Image Generation via Independent Semantic Synthesis.
         
       - title: Parallelized Password Cracker via CUDA
         link: "https://github.com/kareido/CUDA_Passwd_Hacker"
-        tagline: "CS759, College of Engineering, UW-Madison"
+        tagline: 'CS759, College of Engineering, UW-Madison'
         details: |
-            A CUDA Program that can compromise both simple passwords & hash-encoding passwords (e.g. MD5).
+            A CUDA application that can compromise both simple passwords & hash-encoding passwords (e.g. MD5).
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Human Pose Estimation via Synthetic Data
+        tagline: 'Department of Computer Science, UW-Madison'
+        details: |
+            A research project advised by Prof. Yin Li.
+            - Improved 2D &amp; 3D human pose estimation in real/synthetic video using SMPL models.
+            - Modeled real-world noise, variation &amp; occlusion for better 3D joint predictions.
+            
+      - title: Large-scale YouTube Video Semantic Analysis
+        tagline: 'Department of Life Sciences Communication, UW-Madison'
+        details: |
+            A research project funded by Prof. Kaiping Chen
+            - Large-scale data mining &amp; applied deep learning to understand scientific videos on YouTube.
+            - This work has been accepted by a top-tier conference in communication &amp; media area. 
+            
+      - title: pytorl: PyTorch Toolbox for Reinforcement Learning
+        tagline: 'Personal Repository on GitHub'
+        link: https://github.com/kareido/pytorl
+        details: |
+            Implemented 4 DQN(and its variants) algorithms &amp; a distributed DQN learning algorithm similar to Google Gorila via parameter server architecture. 
 
 publications:
     title: Publications
