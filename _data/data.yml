@@ -48,8 +48,8 @@ sidebar:
 
     interests:
       - item: Python; C++; C; CUDA; Java; JavaScript; HTML; Shell; LaTeX
-      - item: PyTorch; MXNet; TensorFlow, Matplotlib, NumPy, SciPy, MPI, OpenGL
-      - item: Slurm; Git; tmux, Vim, Jupyter, Docker, gcc, gdb, g++, CMake, SQL
+      - item: PyTorch; MXNet; TensorFlow; Keras; scikit-learn; MPI; OpenGL
+      - item: Slurm; Git; tmux; Vim; Jupyter; Docker; gcc; gdb; g++; CMake
 
 # career-profile:
 #     title: Career Profile
@@ -155,20 +155,11 @@ publications:
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Gradual Network for Single Image De-raining
+        link: 'https://arxiv.org/abs/1909.09677'
+        authors: Zhe Huang*, Weijiang Yu*, Wayne Zhang, Litong Feng, Nong Xiao
+        conference: In Proceedings of the 27th ACM International Conference on Multimedia (MM 2019)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 # skills:
 #     title: Skills &amp; Proficiency
