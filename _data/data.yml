@@ -100,7 +100,7 @@ projects:
             - Large-scale data mining &amp; applied deep learning to understand scientific videos on YouTube.
             - This work has been accepted by a top-tier conference in communication &amp; media area. 
             
-      - title: pytorl: PyTorch Toolbox for Reinforcement Learning
+      - title: pytorl&colon; PyTorch Toolbox for Reinforcement Learning
         tagline: 'Personal Repository on GitHub'
         link: https://github.com/kareido/pytorl
         details: |
@@ -114,19 +114,3 @@ publications:
         authors: Zhe Huang*, Weijiang Yu*, Wayne Zhang, Litong Feng, Nong Xiao
         conference: In Proceedings of the 27th ACM International Conference on Multimedia (MM 2019)
 
-
-# skills:
-#     title: Skills &amp; Proficiency
-
-#     toolset:
-#       - name: Python & Django
-# #         level: 98%
-
-#       - name: Javascript & jQuery
-# #         level: 98%
-
-#       - name: Angular
-# #         level: 98%
-
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
