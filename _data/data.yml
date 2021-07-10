@@ -49,7 +49,7 @@ experiences:
       details: |
         - Focused on a broad range of research topics, such as DL acceleration, data-denoising, self-/weakly- supervised learning, autoML, image restoration and DNN black-box visualization &amp; interpretation.
         - Improved the company's PyTorch-based classification &amp; detection frameworks by adding new features as well as inspecting and refactoring existing code base.
-        - Delved into large-scale distributed deep learning tasks on Slurm clusters, e.g., training the WebVision dataset which has 16 million training samples, achieving the \textbf{runner-up} of the WebVision 2019 Challenge hosted by the Computer Vision Laboratory, ETH Zurich at CVPR '19.
+        - Delved into large-scale distributed deep learning tasks on Slurm clusters, e.g., training the WebVision dataset which has 16 million training samples, achieving the runner-up of the WebVision 2019 Challenge hosted by the Computer Vision Laboratory, ETH Zurich at CVPR '19.
         - Made two paper submissions as the 1st author, one for ACM Multimedia involving image segmentation &amp; super-resolution, and another for AAAI related to NAS, detection &amp; GCN. 
 projects:
     title: Selected Projects
