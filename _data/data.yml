@@ -47,14 +47,9 @@ sidebar:
 #         link:
 
     interests:
-      - item: Python
-      - item: C++
-      - item: C
-      - item: CUDA
-      - item: Java
-      - item: JavaScript
-      - item: Shell
-      - item: LaTeX
+      - item: Python; C++; C; CUDA
+      - item: Java; JavaScript; HTML
+      - item: Shell; LaTeX
 
 # career-profile:
 #     title: Career Profile
