@@ -58,28 +58,35 @@ projects:
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: CARLA RL Self-driving Vehicle
+      - title: CARLA Self-driving via Reinforcement Learning
         tagline: 'Auton Lab, The Robotics Institute, CMU'
         details: |
             - Research project sponsored by Argo AI. Work in progress.
             - Designing new multi-agent RL algorithms for autonomous driving on CARLA.
             - Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
 
-      - title: Apple E-Waste Recycling Project
-        link: "#"
+      - title: Apple E-Waste Recycling
         tagline: 'Biorobotics Lab, The Robotics Institute, CMU'
         details: |
             - Research &amp; engineering project sponsored by Apple Inc. Work in progress.
             - Designed the phone recognition pipeline and generated photorealistic phone CAD synthetic dataset.  
             - Improved the phone classification accuracy by 6% (top-1 acc. boosted from ~90% to 96%).
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Learning-Based Image Synthesis
+        link: 'http://www.andrew.cmu.edu/course/16-726/projects/zhehuang/'
+        tagline: '16-726, The Robotics Institute, CMU'
+        details: Published websites containing 5 assignments and 1 final project, which are
+            - Colorizing the Prokudin-Gorskii Photo Collection;
+            - Gradient Domain Fusion;  
+            - When Cats meet GANs;
+            - Neural Style Transfer;
+            - GAN Photo Editing (best project finalist);
+            - Image Generation via Independent Semantic Synthesis
+        
+      - title: Parallelized Password Cracker via CUDA
+        link: "https://github.com/kareido/CUDA_Passwd_Hacker"
+        tagline: "CS759, College of Engineering, UW-Madison"
+        details: A CUDA Program that can compromise both simple passwords & hash-encoding passwords (e.g. MD5).
 
       - title: Delta
         link: "#"
