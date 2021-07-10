@@ -64,9 +64,12 @@ projects:
             - Designing new multi-agent RL algorithms for autonomous driving on CARLA funded by Argo AI.
             - Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
 
-      - title: DevStudio
+      - title: Apple E-Waste Recycling Project
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 'Biorobotics Lab, The Robotics Institute, CMU'
+        details: |
+            - Designed the phone recognition pipeline and generated photorealistic phone CAD synthetic dataset.  
+            - Improved the phone classification accuracy by 6% (top-1 acc. boosted from ~90% to 96%).
 
       - title: Tempo
         link: "#"
