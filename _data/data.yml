@@ -18,71 +18,23 @@ sidebar:
     linkedin: zheh
 #     xing: alandoe
     github: kareido
-#     telegram: # add your nickname without '@' sign
-#     gitlab:
-#     bitbucket:
-#     twitter: '@webjeda'
-#     stack-overflow: # Number/Username, e.g. 123456/alandoe
-#     codewars:
-#     goodreads: # Number-Username, e.g. 123456-alandoe
-
-#     languages:
-#       - idiom: English
-#         level: Native
-
-#       - idiom: French
-#         level: Professional
-
-#       - idiom: Spanish
-#         level: Professional
-
-#     interests:
-#       - item: Climbing
-#         link:
-
-#       - item: Snowboarding
-#         link:
-
-#       - item: Cooking
-#         link:
 
     interests:
-      - item: Python; C++; C; CUDA; Java; JavaScript; HTML; Shell; LaTeX
-      - item: PyTorch; MXNet; TensorFlow; Keras; scikit-learn; MPI; OpenGL
-      - item: Slurm; Git; tmux; Vim; Jupyter; Docker; gcc; gdb; g++; CMake
+      - item: Python; C++; C; CUDA; Java; JavaScript; HTML; Shell; LaTeX.
+      - item: PyTorch; MXNet; TensorFlow; Keras; scikit-learn; MPI; OpenGL.
+      - item: Slurm; Git; tmux; Vim; Jupyter; Docker; gcc; gdb; g++.
 
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
 education:
     - degree: Master of Science in Robotics
       university: Carnegie Mellon University
       time: 2020 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          # - Bullet point
-          # - Bullet point
+        Advisor: Prof. Jeff Schneider; Full research assistant-ship funded; GPA: 3.8/4.0; Research topics: DL \& RL.
     - degree: Bachelor of Science in Computer Sciences
       university: University of Wisconsin-Madison
       time: 2017 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          # - Bullet point
-          # - Bullet point
+        On Dean's List; GPA: 3.96/4.0; Graduated with Distinction.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
