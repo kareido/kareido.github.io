@@ -27,54 +27,32 @@ sidebar:
 education:
     - degree: Master of Science in Robotics
       university: Carnegie Mellon University
-      time: 2020 - 2022
+      time: Aug 2020 - May 2022
       details: |
         Advisor: Prof. Jeff Schneider; Full research assistant-ship funded; GPA: 3.8/4.0; Research topics: DL \& RL.
     - degree: Bachelor of Science in Computer Sciences
       university: University of Wisconsin-Madison
-      time: 2017 - 2020
+      time: Sep 2017 - May 2020
       details: |
         On Dean's List; GPA: 3.96/4.0; Graduated with Distinction.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Machine Learning Engineer Intern
+      time: May 2021 - Present
+      company: TuSimple, Inc., San Diego, California
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Initiating the Emergency Vehicle (EV) Detection project. Building the general codebase and baseline models.
+        - Tackling siren recognition task. Designing pipelines for sound event detection and sound source localization.
+        - Revealed the flaws of previous state-of-the-art models by Grad-CAM visualization and network analysis.
+    - role: Computer Vision Research Intern
+      time: Sep 2018 - June 2019
+      company: SenseTime Group Ltd., Shenzhen &amp; Hong Kong
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Focused on a broad range of research topics, such as DL acceleration, data-denoising, self-/weakly- supervised learning, autoML, image restoration and DNN black-box visualization &amp; interpretation.
+        - Improved the company's PyTorch-based classification &amp; detection frameworks by adding new features as well as inspecting and refactoring existing code base.
+        - Delved into large-scale distributed deep learning tasks on Slurm clusters, e.g., training the WebVision dataset which has 16 million training samples, achieving the \textbf{runner-up} of the WebVision 2019 Challenge hosted by the Computer Vision Laboratory, ETH Zurich at CVPR '19.
+        - Made two paper submissions as the 1st author, one for ACM Multimedia involving image segmentation &amp; super-resolution, and another for AAAI related to NAS, detection &amp; GCN. 
 projects:
-    title: Projects
+    title: Selected Projects
 #     intro: >
 #       You can list your side projects or open source libraries in this
 #       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
