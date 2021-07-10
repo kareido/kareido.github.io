@@ -26,25 +26,35 @@ sidebar:
 #     codewars:
 #     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+#     languages:
+#       - idiom: English
+#         level: Native
 
-      - idiom: French
-        level: Professional
+#       - idiom: French
+#         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+#       - idiom: Spanish
+#         level: Professional
+
+#     interests:
+#       - item: Climbing
+#         link:
+
+#       - item: Snowboarding
+#         link:
+
+#       - item: Cooking
+#         link:
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Python
+      - item: C++
+      - item: C
+      - item: CUDA
+      - item: Java
+      - item: JavaScript
+      - item: Shell
+      - item: LaTeX
 
 # career-profile:
 #     title: Career Profile
