@@ -178,7 +178,7 @@ p {
     .upper-row {
         position: relative;
         overflow: hidden;
-        margin-bottom: 10px;
+        margin-bottom: 2px;
     }
     .job-title, .degree {
         color: $text-color;
@@ -212,6 +212,10 @@ p {
         .item {
             margin-bottom: 15px;
         }
+    }
+    .project-authors {
+        margin-bottom: 10px;
+        color: $text-grey;
     }
 
     .publication-title {
