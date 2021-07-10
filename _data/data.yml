@@ -47,9 +47,9 @@ sidebar:
 #         link:
 
     interests:
-      - item: Python; C++; C; CUDA
-      - item: Java; JavaScript; HTML
-      - item: Shell; LaTeX
+      - item: Python; C++; C; CUDA; Java; JavaScript; HTML; Shell; LaTeX
+      - item: PyTorch; MXNet; TensorFlow, Matplotlib, NumPy, SciPy, MPI, OpenGL
+      - item: Slurm; Git; tmux, Vim, Jupyter, Docker, gcc, gdb, g++, CMake, SQL
 
 # career-profile:
 #     title: Career Profile
