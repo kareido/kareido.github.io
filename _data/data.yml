@@ -68,7 +68,7 @@ projects:
             - Designed the phone recognition pipeline and generated photorealistic phone CAD synthetic dataset.  
             - Improved the phone classification accuracy by 6% (top-1 acc. boosted from ~90% to 96%).
 
-      - title: Learning-Based Image Synthesis
+      - title: Learning-based Image Synthesis (w/ Link)
         link: 'http://www.andrew.cmu.edu/course/16-726/projects/zhehuang/'
         tagline: '16-726, The Robotics Institute, CMU'
         details: |
@@ -80,7 +80,7 @@ projects:
             - GAN Photo Editing (best project finalist);
             - Image Generation via Independent Semantic Synthesis.
         
-      - title: Parallelized Password Cracker via CUDA
+      - title: Parallelized Password Cracker via CUDA (w/ Link)
         link: "https://github.com/kareido/CUDA_Passwd_Hacker"
         tagline: 'CS759, College of Engineering, UW-Madison'
         details: |
@@ -100,7 +100,7 @@ projects:
             - Large-scale data mining &amp; applied deep learning to understand scientific videos on YouTube.
             - This work has been accepted by a top-tier conference in communication &amp; media area. 
             
-      - title: pytorl&colon; PyTorch Toolbox for Reinforcement Learning
+      - title: pytorl&colon; PyTorch Toolbox for Reinforcement Learning (w/ Link)
         tagline: 'Personal Repository on GitHub'
         link: https://github.com/kareido/pytorl
         details: |
