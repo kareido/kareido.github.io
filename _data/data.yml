@@ -21,7 +21,7 @@ sidebar:
 
     interests:
       - item: Python; C++; C; CUDA; Java; JavaScript; HTML; Shell; LaTeX.
-      - item: PyTorch; MXNet; TensorFlow; Keras; scikit-learn; MPI; OpenGL.
+      - item: PyTorch; PyTorch3D; MXNet; TensorFlow; Keras; scikit-learn; MPI; OpenGL.
       - item: Slurm; Git; tmux; Vim; Jupyter; Docker; gcc; gdb; g++.
 
 education:
@@ -58,8 +58,9 @@ projects:
         tagline: 'Auton Lab, The Robotics Institute, CMU'
         details: |
             A research project sponsored by Argo AI and advised by Prof. Jeff Schneider. Work in progress.
-            - Designing new multi-agent RL algorithms (distributed PPO &amp; SAC) for autonomous driving on CARLA.
+            - Designing asynchronous multi-agent RL algorithms (distributed PPO &amp; SAC) for autonomous driving on CARLA.
             - Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
+            - Achieving 80.64 total driving score on CARLA Leaderboard evaluation routes assuming having access to a perfect detection model.
 
       - title: Apple E-Waste Recycling
         tagline: 'Biorobotics Lab, The Robotics Institute, CMU'
@@ -68,7 +69,7 @@ projects:
             - Designed the phone recognition pipeline and generated photorealistic phone CAD synthetic dataset.  
             - Improved the phone classification accuracy by 6% (top-1 acc. boosted from ~90% to 96%).
 
-      - title: Learning-based Image Synthesis (w/ Link)
+      - title: Learning-based Image Synthesis (click here to view project webpages)
         link: 'http://www.andrew.cmu.edu/course/16-726/projects/zhehuang/'
         tagline: '16-726, The Robotics Institute, CMU'
         details: |
@@ -79,6 +80,15 @@ projects:
             - Neural Style Transfer;
             - GAN Photo Editing (best project finalist);
             - Image Generation via Independent Semantic Synthesis.
+            
+      - title: Learning for 3D Vision (click here to view project webpages)
+        link: 'https://www.andrew.cmu.edu/course/16-889/projects/zhehuang/'
+        tagline: '16-889, The Robotics Institute, CMU'
+        details: |
+            [This is an ongoing course, website: https://learning3d.github.io/index.html]  This course covers topics including explicit, implicit, neural 3D representations, differentiable rendering, neural rendering, mesh and point cloud processing, radiance Fields, multi-plane images, implicit surfaces, etc.
+            Will publish websites containing 5 assignments and 1 final project, currently have done 2 of them, which are
+            - Rendering Basics with PyTorch3D;
+            - Single View to 3D;  
         
       - title: Parallelized Password Cracker via CUDA (w/ Link)
         link: "https://github.com/kareido/CUDA_Passwd_Hacker"
