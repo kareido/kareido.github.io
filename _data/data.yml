@@ -110,7 +110,7 @@ projects:
             - Large-scale data mining &amp; applied deep learning to understand scientific videos on YouTube.
             - This work has been accepted by a top-tier conference in communication &amp; media area. 
             
-      - title: pytorl&colon; PyTorch Toolbox for Reinforcement Learning (click here to view the GitHub repo)
+      - title: pytorl&colon; PyTorch Toolbox for Reinforcement Learning (click here to view the repo)
         tagline: 'Personal Repository on GitHub'
         link: https://github.com/kareido/pytorl
         details: |
