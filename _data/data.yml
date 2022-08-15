@@ -138,7 +138,7 @@ publications:
       - title: <u>Distributed Reinforcement Learning for Autonomous Driving</u>
         link: 'https://www.ri.cmu.edu/publications/distributed-reinforcement-learning-for-autonomous-driving/'
         authors: Zhe Huang
-        conference: Tech. Report, CMU-RI-TR-22-09, Robotics Institute, Carnegie Mellon University (Master's Thesis)
+        conference: Tech. Report, CMU-RI-TR-22-09, The Robotics Institute, CMU (Master's Thesis)
       - title: <u>Gradual Network for Single Image De-raining</u>
         link: 'https://arxiv.org/abs/1909.09677'
         authors: Zhe Huang*, Weijiang Yu*, Wayne Zhang, Litong Feng, Nong Xiao
