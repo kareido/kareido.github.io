@@ -57,7 +57,7 @@ experiences:
       details: |
         - Focused on a broad range of research topics, such as DL acceleration, data-denoising, self-/weakly- supervised learning, autoML, image restoration and DNN black-box visualization &amp; interpretation.
         - Improved the company's PyTorch-based classification &amp; detection frameworks by adding new features as well as inspecting and refactoring existing code base.
-        - Delved into large-scale weakly-supervised training of WebVision dataset which consists of 16 million samples, achieving the 2nd place of the WebVision 2019 Challenge at CVPR ’19 hosted by the Computer Vision Laboratory, ETH Zurich.
+        - Explored the limits of large-scale weakly-supervised training of WebVision dataset which consists of 16 million samples, achieving the 2nd place of the WebVision 2019 Challenge at CVPR '19 hosted by the Computer Vision Laboratory, ETH Zurich.
         - Made two paper submissions as the 1st author, one for ACM Multimedia involving image segmentation &amp; super-resolution, and another for AAAI related to NAS, detection &amp; GCN. 
 projects:
     title: Selected Projects
@@ -142,5 +142,5 @@ publications:
       - title: <u>Gradual Network for Single Image De-raining</u>
         link: 'https://arxiv.org/abs/1909.09677'
         authors: Zhe Huang*, Weijiang Yu*, Wayne Zhang, Litong Feng, Nong Xiao
-        conference: In Proceedings of the 27th ACM International Conference on Multimedia (ACM MM 2019) [Oral]
+        conference: In Proceedings of the 27th ACM International Conference on Multimedia (ACM MM 2019)
 
