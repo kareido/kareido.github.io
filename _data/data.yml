@@ -78,7 +78,7 @@ projects:
             - Designed the phone recognition pipeline and generated photorealistic phone CAD synthetic dataset.  
             - Improved the phone classification accuracy by 6% (top-1 acc. boosted from ~90% to 96%).
 
-      - title: Learning-based Image Synthesis (click here to view project webpages)
+      - title: <u>Learning-based Image Synthesis</u>
         link: 'http://www.andrew.cmu.edu/course/16-726/projects/zhehuang/'
         tagline: '16-726, The Robotics Institute, CMU'
         details: |
@@ -90,16 +90,19 @@ projects:
             - GAN Photo Editing (best project finalist);
             - Image Generation via Independent Semantic Synthesis.
             
-      - title: <u>Learning for 3D Vision<u>
+      - title: <u>Learning for 3D Vision</u>
         link: 'https://www.andrew.cmu.edu/course/16-889/projects/zhehuang/'
         tagline: '16-889, The Robotics Institute, CMU'
         details: |
-            [This is an ongoing course, website: https://learning3d.github.io/index.html]  This course covers topics including explicit, implicit, neural 3D representations, differentiable rendering, neural rendering, mesh and point cloud processing, radiance Fields, multi-plane images, implicit surfaces, etc.
+            This course covers topics including explicit, implicit, neural 3D representations, differentiable rendering, neural rendering, mesh and point cloud processing, radiance Fields, multi-plane images, implicit surfaces, etc.
             Will publish websites containing 5 assignments and 1 final project, currently have done 2 of them, which are
             - Rendering Basics with PyTorch3D;
-            - Single View to 3D;  
+            - Single View to 3D; 
+            - Volume Rendering and Neural Radiance Fields; 
+            - Neural Surfaces; 
+            - Point Cloud Classification and Segmentation. 
         
-      - title: Parallelized Password Cracker via CUDA (click here to view the GitHub repo)
+      - title: <u>Parallelized Password Cracker via CUDA</u>
         link: "https://github.com/kareido/CUDA_Passwd_Hacker"
         tagline: 'CS759, College of Engineering, UW-Madison'
         details: |
@@ -119,7 +122,7 @@ projects:
             - Large-scale data mining &amp; applied deep learning to understand scientific videos on YouTube.
             - This work has been accepted by a top-tier conference in communication &amp; media area. 
             
-      - title: pytorl&colon; PyTorch Toolbox for Reinforcement Learning (click here to view the repo)
+      - title: <u>pytorl&colon; PyTorch Toolbox for Reinforcement Learning<\u>
         tagline: 'Personal Repository on GitHub'
         link: https://github.com/kareido/pytorl
         details: |
@@ -128,7 +131,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: Gradual Network for Single Image De-raining
+      - title: <u>Gradual Network for Single Image De-raining<\u>
         link: 'https://arxiv.org/abs/1909.09677'
         authors: Zhe Huang*, Weijiang Yu*, Wayne Zhang, Litong Feng, Nong Xiao
         conference: In Proceedings of the 27th ACM International Conference on Multimedia (MM 2019)
