@@ -37,15 +37,15 @@ education:
       details: |
         On Dean's List; GPA: 3.96/4.0; Graduated with Distinction.
 experiences:
-    - role: Machine Learning Engineer Intern
+    - role: Research Engineer, Deep Perception
       time: June 2022 - Present
-      company: TuSimple, Inc., San Diego, California
+      company: TuSimple Inc., San Diego, California
       details: |
         - Upgraded monocular 3D objection detection module on the autonomous driving truck.
         - Devised a novel attention mechanism that elevates the yaw prediction accuracy of current monocular 3D pedestrian detection module by 20% while reducing the model size by 50% and maintaining the same inference time.
-    - role: Machine Learning Engineer Intern
+    - role: Machine Learning Engineer Intern, Deep Perception
       time: May 2021 - Aug 2021
-      company: TuSimple, Inc., San Diego, California
+      company: TuSimple Inc., San Diego, California
       details: |
         - Initiated the Emergency Vehicle (EV) Detection project. Built the general codebase and baseline models.
         - Tackled siren recognition task. Designing pipelines for sound event detection and sound source localization.
@@ -65,9 +65,10 @@ projects:
       - title: CARLA Self-driving via Reinforcement Learning
         tagline: 'Auton Lab, The Robotics Institute, CMU'
         details: |
-            A research project sponsored by Argo AI and advised by Prof. Jeff Schneider. Work in progress.
+            A research project sponsored by Argo AI and advised by Prof. Jeff Schneider.
             - Designing asynchronous multi-agent RL algorithms (distributed PPO &amp; SAC) for autonomous driving on CARLA.
-            - Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
+            # - Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
+            - Boosted the RL training speed by 40 times while improving the agent performance by 10%.
             - Achieving 80.64 total driving score on CARLA Leaderboard evaluation routes assuming having access to a perfect detection model.
 
       - title: Apple E-Waste Recycling
