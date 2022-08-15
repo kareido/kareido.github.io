@@ -122,7 +122,7 @@ projects:
             - Large-scale data mining &amp; applied deep learning to understand scientific videos on YouTube.
             - This work has been accepted by a top-tier conference in communication &amp; media area. 
             
-      - title: <u>pytorl&colon; PyTorch Toolbox for Reinforcement Learning<\u>
+      - title: <u>pytorl&colon; PyTorch Toolbox for Reinforcement Learning</u>
         tagline: 'Personal Repository on GitHub'
         link: https://github.com/kareido/pytorl
         details: |
@@ -131,8 +131,16 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: <u>Gradual Network for Single Image De-raining<\u>
+       - title: <u>Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning</u>
+        link: 'https://arxiv.org/abs/2207.10295'
+        authors: Adam Villaflor, Zhe Huang, Swapnil Pande, John Dolan, Jeff Schneider
+        conference: Proceedings of the 39th International Conference on Machine Learning (ICML 2022)
+      - title: <u>Distributed Reinforcement Learning for Autonomous Driving</u>
+        link: 'https://www.ri.cmu.edu/publications/distributed-reinforcement-learning-for-autonomous-driving/'
+        authors: Zhe Huang
+        conference: Tech. Report, CMU-RI-TR-22-09, Robotics Institute, Carnegie Mellon University (Master's Thesis)
+      - title: <u>Gradual Network for Single Image De-raining</u>
         link: 'https://arxiv.org/abs/1909.09677'
         authors: Zhe Huang*, Weijiang Yu*, Wayne Zhang, Litong Feng, Nong Xiao
-        conference: In Proceedings of the 27th ACM International Conference on Multimedia (MM 2019)
+        conference: In Proceedings of the 27th ACM International Conference on Multimedia (ACM MM 2019) [Oral]
 
