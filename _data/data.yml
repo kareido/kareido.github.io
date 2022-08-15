@@ -131,7 +131,7 @@ projects:
 publications:
     title: Publications
     papers:
-       - title: <u>Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning</u>
+      - title: <u>Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning</u>
         link: 'https://arxiv.org/abs/2207.10295'
         authors: Adam Villaflor, Zhe Huang, Swapnil Pande, John Dolan, Jeff Schneider
         conference: Proceedings of the 39th International Conference on Machine Learning (ICML 2022)
