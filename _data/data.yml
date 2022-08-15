@@ -8,11 +8,12 @@ sidebar:
 
     # Profile information
     name: Zhe Huang
-    tagline: The Robotics Institute, CMU
+#     tagline: The Robotics Institute, CMU
+    tagline: Research Engineer, TuSimple
     avatar: pin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: zhehuang@cmu.edu
+    email: iamzhehuang@gmail.com
     phone: 608 571 9090
     website: kareido.github.io #do not add http://
     linkedin: zheh
@@ -20,7 +21,7 @@ sidebar:
     github: kareido
 
     interests:
-      - item: Python; C++; C; CUDA; Java; JavaScript; HTML; Shell; LaTeX.
+      - item: Python; C++; C; CUDA; Java; HTML; Shell; LaTeX.
       - item: PyTorch; PyTorch3D; MXNet; TensorFlow; Keras; scikit-learn; MPI; OpenGL.
       - item: Slurm; Git; tmux; Vim; Jupyter; Docker; gcc; gdb; g++.
 
