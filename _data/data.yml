@@ -67,7 +67,7 @@ projects:
         details: |
             A research project sponsored by Argo AI and advised by Prof. Jeff Schneider.
             - Designing asynchronous multi-agent RL algorithms (distributed PPO &amp; SAC) for autonomous driving on CARLA.
-            # Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
+            % - Reducing the training time from several weeks to 40 hours while improving the agent performance by 10%.
             - Boosted the RL training speed by 40 times while improving the agent performance by 10%.
             - Achieving 80.64 total driving score on CARLA Leaderboard evaluation routes assuming having access to a perfect detection model.
 
