@@ -38,12 +38,19 @@ education:
         On Dean's List; GPA: 3.96/4.0; Graduated with Distinction.
 experiences:
     - role: Machine Learning Engineer Intern
-      time: May 2021 - Present
+      time: June 2022 - Present
       company: TuSimple, Inc., San Diego, California
       details: |
-        - Initiating the Emergency Vehicle (EV) Detection project. Building the general codebase and baseline models.
-        - Tackling siren recognition task. Designing pipelines for sound event detection and sound source localization.
+        - Upgraded monocular 3D objection detection module on the autonomous driving truck.
+        - Devised a novel attention mechanism that elevates the yaw prediction accuracy of current monocular 3D pedestrian detection module by 20% while reducing the model size by 50% and maintaining the same inference time.
+    - role: Machine Learning Engineer Intern
+      time: May 2021 - Aug 2021
+      company: TuSimple, Inc., San Diego, California
+      details: |
+        - Initiated the Emergency Vehicle (EV) Detection project. Built the general codebase and baseline models.
+        - Tackled siren recognition task. Designing pipelines for sound event detection and sound source localization.
         - Revealed the flaws of previous state-of-the-art models by Grad-CAM visualization and heatmap analysis.
+        - With performance-boosting add-on modules, the finalized model achieved 99% detection accuracy and 10% gain in terms of localization precision & recall in comparison with other state-of-the-art methods.
     - role: Computer Vision Research Intern
       time: Sep 2018 - June 2019
       company: SenseTime Group Ltd., Shenzhen &amp; Hong Kong
