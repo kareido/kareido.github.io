@@ -90,7 +90,7 @@ projects:
             - GAN Photo Editing (best project finalist);
             - Image Generation via Independent Semantic Synthesis.
             
-      - title: Learning for 3D Vision (click here to view project webpages)
+      - title: __Learning for 3D Vision__
         link: 'https://www.andrew.cmu.edu/course/16-889/projects/zhehuang/'
         tagline: '16-889, The Robotics Institute, CMU'
         details: |
