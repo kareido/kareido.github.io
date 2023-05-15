@@ -41,8 +41,9 @@ experiences:
       time: June 2022 - Present
       company: TuSimple Inc., San Diego, California
       details: |
-        - Upgraded monocular 3D objection detection module on the autonomous driving truck.
+        - Upgraded monocular 3D objection detection module (for vehicles and vulnerable road users) on the autonomous driving truck.
         - Devised a novel attention mechanism that elevates the yaw prediction accuracy of current monocular 3D pedestrian detection module by 20% while reducing the model size by 50% and maintaining the same inference time.
+        - Designed and built a BEV 3D objection detection and segmentation model with multi-modal input sources, including multi-cam raw images, perspective view image segmentation results, lidar occlusion and occupancy grids and lidar segmentation results. 
     - role: Machine Learning Engineer Intern, Deep Perception
       time: May 2021 - Aug 2021
       company: TuSimple Inc., San Diego, California
