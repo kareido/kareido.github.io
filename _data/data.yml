@@ -21,9 +21,9 @@ sidebar:
     github: kareido
 
     interests:
-      - item: Python; C++; C; CUDA; Java; HTML; Shell; LaTeX.
+      - item: Python; C++; C; CUDA; HTML; Shell; LaTeX.
       - item: PyTorch; PyTorch3D; MXNet; TensorFlow; Keras; scikit-learn; MPI; OpenGL.
-      - item: Slurm; Git; tmux; Vim; Jupyter; Docker; gcc; gdb; g++.
+      - item: Slurm; Git; tmux; Vim; AWS; Jupyter; Docker; gcc; gdb; g++.
 
 education:
     - degree: Master of Science in Robotics
@@ -44,6 +44,7 @@ experiences:
         - Upgraded monocular 3D objection detection module (for vehicles and vulnerable road users) on the autonomous driving truck.
         - Devised a novel attention mechanism that elevates the yaw prediction accuracy of current monocular 3D pedestrian detection module by 20% while reducing the model size by 50% and maintaining the same inference time.
         - Designed and built a BEV 3D objection detection and segmentation model with multi-modal input sources, including multi-cam raw images, perspective view image segmentation results, lidar occlusion and occupancy grids and lidar segmentation results. 
+        - Worked on Transformer-based motion prediction project. Devised a novel multi-scale feature representation for map context and LiDAR voxels. Designed a velocity-based local attention which helps agents better understand their surrounding environment.
     - role: Machine Learning Engineer Intern, Deep Perception
       time: May 2021 - Aug 2021
       company: TuSimple Inc., San Diego, California
