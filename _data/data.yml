@@ -141,14 +141,14 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: <u>MGTR\: Multi-Granular Transformer for Motion Prediction with LiDAR</u>
+      - title: <u>"MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR"</u>
         link: 'https://arxiv.org/abs/2312.02409'
         authors: Yiqian Gan, Hao Xiao, Yizhe Zhao, Ethan Zhang, Zhe Huang, Xin Ye, Lingting Ge
-        conference: Proceedings of 2024 IEEE International Conference on Robotics and Automation (ICRA 2024)
+        conference: In Proceedings of 2024 IEEE International Conference on Robotics and Automation (ICRA 2024)
       - title: <u>Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning</u>
         link: 'https://arxiv.org/abs/2207.10295'
         authors: Adam Villaflor, Zhe Huang, Swapnil Pande, John Dolan, Jeff Schneider
-        conference: Proceedings of the 39th International Conference on Machine Learning (ICML 2022)
+        conference: In Proceedings of the 39th International Conference on Machine Learning (ICML 2022)
       - title: <u>Distributed Reinforcement Learning for Autonomous Driving</u>
         link: 'https://www.ri.cmu.edu/publications/distributed-reinforcement-learning-for-autonomous-driving/'
         authors: Zhe Huang
