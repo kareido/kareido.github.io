@@ -42,7 +42,7 @@ experiences:
       company: Stealth Startup, Houston, Texas
       details: |
         - Designed and implemented a single-model perception foundation model for end-to-end video 2D &amp; 3D Detection, LiDAR semantic segmentation, camera-LiDAR fusion, traffic light &amp; vehicle light detection, tracking &amp; prediction.
-        - For efficiency reasons, the model does not employ Bird’s-Eye-View (BEV) feature representation. The model is fully sparse and can detection objects in ±400m.
+        - For efficiency reasons, the model does not employ Bird's-Eye-View (BEV) feature representation. The model is fully sparse and can detection objects in ±400m.
         - Conducted self-supervised pre-training of unified multi-modal Transformer backbone using MAE and Voxel-MAE, respectively. Adopted mixed precision training for numerical stability when handling 12-bit raw image. Multi-stage fine-tuning is also necessary to orchestrate multi-task learning.
         - Worked collaborately with experienced team members to implement custom TensorRT plugins and optimize the performance of TensorRT engines.
     - role: Research Engineer, Deep Perception
