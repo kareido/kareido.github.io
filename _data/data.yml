@@ -141,7 +141,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: <u>'MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR'</u>
+      - title: <u>Multi-Granular Transformer for Motion Prediction with LiDAR</u>
         link: 'https://arxiv.org/abs/2312.02409'
         authors: Yiqian Gan, Hao Xiao, Yizhe Zhao, Ethan Zhang, Zhe Huang, Xin Ye, Lingting Ge
         conference: In Proceedings of 2024 IEEE International Conference on Robotics and Automation (ICRA 2024)
