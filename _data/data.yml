@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Zhe Huang
 #     tagline: The Robotics Institute, CMU
-    tagline: Research Engineer, TuSimple
+    tagline: Engineer, Stealth Startup
     avatar: pin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,14 +37,22 @@ education:
       details: |
         On Dean's List; GPA: 3.96/4.0; Graduated with Distinction.
 experiences:
+    - role: Engineer, Deep Perception
+      time: Sep 2023 - Oct 2024
+      company: Stealth Startup, Houston, Texas
+      details: |
+        - Designed and implemented a single-model perception foundation model for end-to-end video 2D &amp; 3D Detection, LiDAR semantic segmentation, camera-LiDAR fusion, traffic light &amp; vehicle light detection, tracking &amp; prediction.
+        - For efficiency reasons, the model does not employ Bird’s-Eye-View (BEV) feature representation. The model is fully sparse and can detection objects in ±400m.
+        - Conducted self-supervised pre-training of unified multi-modal Transformer backbone using MAE and Voxel-MAE, respectively. Adopted mixed precision training for numerical stability when handling 12-bit raw image. Multi-stage fine-tuning is also necessary to orchestrate multi-task learning.
+        - Worked collaborately with experienced team members to implement custom TensorRT plugins and optimize the performance of TensorRT engines.
     - role: Research Engineer, Deep Perception
-      time: June 2022 - Present
+      time: June 2022 - Sep 2023
       company: TuSimple Inc., San Diego, California
       details: |
         - Upgraded monocular 3D objection detection module (for vehicles and vulnerable road users) on the autonomous driving truck.
         - Devised a novel attention mechanism that elevates the yaw prediction accuracy of current monocular 3D pedestrian detection module by 20% while reducing the model size by 50% and maintaining the same inference time.
         - Designed and built a BEV 3D objection detection and segmentation model with multi-modal input sources, including multi-cam raw images, perspective view image segmentation results, lidar occlusion and occupancy grids and lidar segmentation results. 
-        - Worked on Transformer-based motion prediction project. Devised a novel multi-scale feature representation for map context and LiDAR voxels. Designed a velocity-based local attention which helps agents better understand their surrounding environment.
+        - Worked on the Transformer-based motion prediction project. Devised a novel multi-scale feature representation for map context and LiDAR voxels. Designed a velocity-based local attention which helps agents better understand their surrounding environment. On Waymo Open Dataset leaderboard, our model, dubbed MGTR, has achieved 1st place in terms of the overall prediction mAP and soft mAP.
     - role: Machine Learning Engineer Intern, Deep Perception
       time: May 2021 - Aug 2021
       company: TuSimple Inc., San Diego, California
@@ -59,7 +67,7 @@ experiences:
       details: |
         - Focused on a broad range of research topics, such as DL acceleration, data-denoising, self-/weakly- supervised learning, autoML, image restoration and DNN black-box visualization &amp; interpretation.
         - Improved the company's PyTorch-based classification &amp; detection frameworks by adding new features as well as inspecting and refactoring existing code base.
-        - Explored the limits of large-scale weakly-supervised training of WebVision dataset which consists of 16 million samples, achieving the 2nd place of the WebVision 2019 Challenge at CVPR '19 hosted by the Computer Vision Laboratory, ETH Zurich.
+        - Explored the limits of large-scale weakly-supervised training of WebVision dataset which consists of 16 million samples, achieving 2nd place of the WebVision 2019 Challenge at CVPR '19 hosted by the Computer Vision Laboratory, ETH Zurich.
         - Made two paper submissions as the 1st author, one for ACM Multimedia involving image segmentation &amp; super-resolution, and another for AAAI related to NAS, detection &amp; GCN. 
 projects:
     title: Selected Projects
@@ -133,6 +141,10 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: <u>MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR</u>
+        link: 'https://arxiv.org/abs/2312.02409'
+        authors: Yiqian Gan, Hao Xiao, Yizhe Zhao, Ethan Zhang, Zhe Huang, Xin Ye, Lingting Ge
+        conference: Proceedings of 2024 IEEE International Conference on Robotics and Automation (ICRA 2024)
       - title: <u>Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning</u>
         link: 'https://arxiv.org/abs/2207.10295'
         authors: Adam Villaflor, Zhe Huang, Swapnil Pande, John Dolan, Jeff Schneider
