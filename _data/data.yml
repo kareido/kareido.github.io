@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Zhe Huang
 #     tagline: The Robotics Institute, CMU
-    tagline: Engineer, Stealth Startup
+    tagline: Software Engineer, Waymo
     avatar: pin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,9 +37,14 @@ education:
       details: |
         On Dean's List; GPA: 3.96/4.0; Graduated with Distinction.
 experiences:
+    - role: Software Engineer, LLM/VLM
+      time: Oct 2024 - Present
+      company: Waymo, Mountain View, California
+      details: |
+        - Perception scene understanding.
     - role: Engineer, Deep Perception
       time: Sep 2023 - Oct 2024
-      company: Stealth Startup, Houston, Texas
+      company: Bot Auto, Houston, Texas
       details: |
         - Designed and implemented a single-model perception foundation model for end-to-end video 2D &amp; 3D Detection, LiDAR semantic segmentation, camera-LiDAR fusion, traffic light &amp; vehicle light detection, tracking &amp; prediction.
         - For efficiency reasons, the model does not employ Bird's-Eye-View (BEV) feature representation. The model is fully sparse and can detection objects in ±400m.
