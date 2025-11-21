@@ -147,7 +147,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: <u>DuoSpaceNet: Leveraging Both Birds-Eye-View and Perspective View Representations for 3D Object Detection</u>
+      - title: "<u>DuoSpaceNet: Leveraging Both Birds-Eye-View and Perspective View Representations for 3D Object Detection</u>"
         link: 'https://arxiv.org/abs/2405.10577'
         authors: Zhe Huang*, Yizhe Zhao*, Hao Xiao, Chenyan Wu, Lingting Ge
         conference: In Proceedings of the Computer Vision and Pattern Recognition Conference Workshops (CVPRW 2025)
