@@ -41,7 +41,8 @@ experiences:
       time: Oct 2024 - Present
       company: Waymo, Mountain View, California
       details: |
-        - Perception scene understanding.
+        - Developing VLM for generalizable end-to-end self-driving by infusing driving-specific world knowledge, reasoning (CoT) and instruction following capabilities into internal Google Deepmind Gemini MOE model (the total active number of parameters is over 20B). Recipes include tail-patch pretraining, supervised finetuning (SFT) and post-training (e.g., RLVF).
+        - Developed and productionized Waymo’s next generation in-house vision foundation model (the overall number of parameters is over 2B) as a teacher model.
     - role: Engineer, Deep Perception
       time: Sep 2023 - Oct 2024
       company: Bot Auto, Houston, Texas
@@ -146,6 +147,10 @@ projects:
 publications:
     title: Publications
     papers:
+      - title: <u>DuoSpaceNet: Leveraging Both Birds-Eye-View and Perspective View Representations for 3D Object Detection</u>
+        link: 'https://arxiv.org/abs/2405.10577'
+        authors: Zhe Huang*, Yizhe Zhao*, Hao Xiao, Chenyan Wu, Lingting Ge
+        conference: In Proceedings of the Computer Vision and Pattern Recognition Conference Workshops (CVPRW 2025)
       - title: <u>Multi-Granular Transformer for Motion Prediction with LiDAR</u>
         link: 'https://arxiv.org/abs/2312.02409'
         authors: Yiqian Gan, Hao Xiao, Yizhe Zhao, Ethan Zhang, Zhe Huang, Xin Ye, Lingting Ge
